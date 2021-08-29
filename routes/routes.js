@@ -10,8 +10,6 @@ module.exports = app => {
 
         var notes = JSON.parse(data);
 
-      
-      
         app.get("/api/notes", function(req, res) {
           
             res.json(notes);
