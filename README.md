@@ -32,7 +32,7 @@ To save your new note to the "saved area", simply press the save icon.
 
 To create a new note, click on the pencil icon in the top right corner. You can view your saved notes at any time and to delete simply press the trash can icon next to the particular note.  
 
-Selecting the Note taker link in the top left will bring you back to the Note-Taker Homepage.
+Selecting the Note Taker link in the top left will bring you back to the Note-Taker Homepage.
 
 ![Note Taker Start Screen](public/assets/images/Notetaker1.png)
 
