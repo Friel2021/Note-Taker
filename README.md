@@ -13,11 +13,10 @@ This application requires the following NPM modules:
 ### Express
 ### Path
 
-Be sure to install npm packages that aren't already included in node.
+The initial page will take you to a welcome/start page, click on the "Get Started" button to begin the Note taking!!!
 
-The initial page will take you to a welcome/get started page, once you click into get started you can start creating your notes!
+Once the notes page is displayed, you can begin entering a new note by clicking into the "Note Taker" field and adding a title and a body to your note. To save your new note to the "saved area", simply press the save icon. To create a new note, click on the pencil icon in the top right corner. You can view your saved notes at any time and to delete simply press the trash can icon next to the particular note.  Selecting the Note taker link in the top left will bring you back to the Note-Taker Homepage.
 
-There are input boxes for both a note title and note text and a save button that pops up in the upper right hand corner of the page once text has been entered. Once a new note is saved it will then show up by title on the left hand side of the page. There will be a red trash can delete button next to each note so that you can delete them. If you click on the note title itself it will pull that note title and text up to the center of the screen.
 
 ## Resources
 
