@@ -9,9 +9,9 @@ This is a note taking application using Express and Node.js. This application ha
 
 This application requires the following NPM modules:
 
-# fs
-# Express
-# Path
+### fs
+### Express
+### Path
 
 Be sure to install npm packages that aren't already included in node.
 
