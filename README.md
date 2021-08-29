@@ -15,7 +15,13 @@ This application requires the following NPM modules:
 
 The initial page will take you to a welcome/start page, click on the "Get Started" button to begin the Note taking!!!
 
-Once the notes page is displayed, you can begin entering a new note by clicking into the "Note Taker" field and adding a title and a body to your note. To save your new note to the "saved area", simply press the save icon. To create a new note, click on the pencil icon in the top right corner. You can view your saved notes at any time and to delete simply press the trash can icon next to the particular note.  Selecting the Note taker link in the top left will bring you back to the Note-Taker Homepage.
+Once the notes page is displayed, you can begin entering a new note by clicking into the "Note Taker" field and adding a title and a body to your note. 
+
+To save your new note to the "saved area", simply press the save icon. 
+
+To create a new note, click on the pencil icon in the top right corner. You can view your saved notes at any time and to delete simply press the trash can icon next to the particular note.  
+
+Selecting the Note taker link in the top left will bring you back to the Note-Taker Homepage.
 
 
 ## Resources
